@@ -38,7 +38,7 @@ flowchart TD
 
 An adaptation interface bridged the pre-existing fixture and the generic bench connector arrangement. The EOT environment included industrial digital I/O, switching resources, power supplies, and digital multimeters. The software coordinated these resources to apply stimuli and acquire measurements.
 
-![adaptation card HW](adaptation card HW.jpeg)
+![Hardware adaptation card](adaptation%20card%20HW.jpeg)
 
 ### LabVIEW application
 
@@ -50,7 +50,7 @@ The application supported three operating modes:
 | **Debug** | Inspect individual steps and measurements during troubleshooting. |
 | **Golden** | Support checks using a known-good reference unit. |
 
-*Add approved, cropped screenshots that do not expose production identifiers or proprietary test limits.*
+![Labview Application](roskchu%20main.png)
 
 ## Functional verification
 
