@@ -22,6 +22,19 @@ Key objectives:
 - Reduce execution time while preserving test coverage.
   ![the product under test](Card_UUT.jpeg)
 
+## Test bench migration
+
+### Original FCT test bench
+
+The original test bench used for functional testing of the fuse-box PCB.
+
+<img src="old_bench2.png" alt="Original FCT test bench" width="700">
+
+### New EOT test bench
+
+The generic EOT bench used after migration, integrating the adapted fixture and the new LabVIEW application.
+
+<img src="EOT_bench_test.png" alt="New generic EOT test bench" width="700">
 ## System architecture
 
 The following high-level diagram is intentionally simplified for public documentation.
@@ -76,7 +89,11 @@ The migrated sequence covered the following groups of checks:
 
 `LabVIEW` · `Functional Circuit Testing` · `End-of-Line Testing` · `Industrial I/O` · `Modbus TCP/IP` · `Digital Multimeters` · `Power Supplies` · `Hardware Integration` · `Test Automation` · `Troubleshooting`
 
+## Project demonstration
 
+The following video demonstrates the migrated test system in operation.
+
+[▶ Watch the project demonstration](demonstration.mp4)
 
 ## Project context
 
