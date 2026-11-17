@@ -38,7 +38,7 @@ flowchart TD
 
 An adaptation interface bridged the pre-existing fixture and the generic bench connector arrangement. The EOT environment included industrial digital I/O, switching resources, power supplies, and digital multimeters. The software coordinated these resources to apply stimuli and acquire measurements.
 
-*Add an original, non-confidential block diagram or an approved photograph here.*
+![adaptation card HW](adaptation card HW.jpeg)
 
 ### LabVIEW application
 
