@@ -20,6 +20,7 @@ Key objectives:
 - Reimplement the required functional measurements in LabVIEW.
 - Provide separate workflows for production, troubleshooting, and reference-unit validation.
 - Reduce execution time while preserving test coverage.
+  ![the product under test](Card_UUT.jpeg)
 
 ## System architecture
 
@@ -50,7 +51,7 @@ The application supported three operating modes:
 | **Debug** | Inspect individual steps and measurements during troubleshooting. |
 | **Golden** | Support checks using a known-good reference unit. |
 
-![Labview Application](roskchu%20main.png)
+![Labview Application](kroschu main.png)
 
 ## Functional verification
 
@@ -62,7 +63,7 @@ The migrated sequence covered the following groups of checks:
 | Relay contact tests | 2 tests |
 | Resistance measurements | 2 tests |
 
-The exact pin assignments, limits, and circuit-level implementation are intentionally omitted.
+
 
 ## Outcome
 
@@ -75,12 +76,7 @@ The exact pin assignments, limits, and circuit-level implementation are intentio
 
 `LabVIEW` · `Functional Circuit Testing` · `End-of-Line Testing` · `Industrial I/O` · `Modbus TCP/IP` · `Digital Multimeters` · `Power Supplies` · `Hardware Integration` · `Test Automation` · `Troubleshooting`
 
-## Suggested visual documentation
 
-1. **Before/after architecture:** a simplified comparison of the legacy FCT and generic EOT setups.
-2. **Adaptation concept:** a redrawn connector-level *block diagram*, without confidential pin mappings.
-3. **LabVIEW modes:** approved screenshots of Production and Debug views.
-4. **Results:** an anonymized chart comparing cycle times, if the underlying values are cleared for publication.
 
 ## Project context
 
