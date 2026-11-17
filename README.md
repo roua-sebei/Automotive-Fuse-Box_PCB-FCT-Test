@@ -51,7 +51,7 @@ The application supported three operating modes:
 | **Debug** | Inspect individual steps and measurements during troubleshooting. |
 | **Golden** | Support checks using a known-good reference unit. |
 
-![Labview Application](kroschu main.png)
+![Labview Application](kroschu%20main.png)
 
 ## Functional verification
 
