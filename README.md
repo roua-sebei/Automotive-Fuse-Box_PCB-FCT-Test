@@ -1,3 +1,5 @@
+
+
 # Automotive Fuse Box PCB: FCT-to-EOT Test Migration
 
 **Industrial functional test automation | LabVIEW | Hardware–software integration**
@@ -91,9 +93,9 @@ The migrated sequence covered the following groups of checks:
 
 ## Project demonstration
 
-The following video demonstrates the migrated test system in operation.
+Watch the migrated test system in operation:
 
-[▶ Watch the project demonstration](demonstration.mp4)
+[▶ Watch the demonstration](https://youtu.be/7XQJeJ2EzS4)
 
 ## Project context
 
